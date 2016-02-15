@@ -1,0 +1,18 @@
+.shredirect-form-add input,
+.shredirect-form-add select{
+    margin: 0 5px;
+}
+.shredirect-form-add .send{
+    display: inline-block;
+    line-height: 27px;
+    margin: 0 5px;
+    padding: 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: transparent linear-gradient(to bottom, #FFF 0%, #EDEDED 100%) repeat scroll 0% 0%;
+    cursor: pointer;
+}
+.shredirect-form-add .send:hover{
+    box-shadow: 0px 0px 3px #3498DB, 0px -1px 1px #FFF inset, 0px 1px 1px #CCC;
+    color: #069;
+}

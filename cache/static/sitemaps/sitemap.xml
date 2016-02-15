@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>http://ins.dev/sitemap_users_profiles.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_groups_profiles.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_content_pages.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_content_articles.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_content_posts.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_content_albums.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_content_board.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>http://ins.dev/sitemap_content_news.xml</loc>
+      <lastmod>2016-02-07</lastmod>
+   </sitemap>
+</sitemapindex>

@@ -1,0 +1,40 @@
+.wiki_controller.info {
+	text-decoration:underline;
+	cursor:help;
+	
+}
+
+.wiki_controller.ajax_window {
+	position:relative;
+	padding: 14px;
+	margin-top: -20px;
+}
+
+.wiki_controller .logo_wiki {
+	position: absolute;
+	top: 23px;
+	right: 16px;
+}
+
+.wiki_controller .info_block {
+	box-shadow: 0 0 4px grey;
+	padding: 1px 10px 10px 10px;
+	margin-bottom:10px;
+	background-color:#efe;
+}
+
+.wiki_controller .title{
+	font-size:14px;
+	font-weight:bold;
+}
+
+.wiki_controller .description{
+	color:grey;
+}
+
+.wiki_controller.ajax_window .link{
+	text-align: right;
+	display: block;
+	font-size: 10px;
+	text-decoration: none;
+}
